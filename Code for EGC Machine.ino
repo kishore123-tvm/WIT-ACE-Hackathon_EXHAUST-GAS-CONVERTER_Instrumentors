@@ -1,4 +1,4 @@
-*** coding part for water level meaurement in EGC system ***
+***// coding part for water level meaurement in EGC system //***
 const int trigP = 2;  
 const int echoP = 0;  
 
@@ -29,7 +29,7 @@ delay(3000);
 
 
 
-*** coding part for Detecting gas in a container by mq2 sensor ***
+*** //coding part for Detecting gas in a container by mq2 sensor// ***
 int redLed = 12;
 int greenLed = 11;
 int buzzer = 10;
