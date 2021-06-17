@@ -9,4 +9,4 @@ Egc machine is used for converting  gas into liquid form under internal cooling 
 The liquified gas is heated and other gases pumped into the pipe and selling it to Gtl company for cost. The remaining water is filtered (reverse osmosis) and user used for various purposes.
 
 
-YOUTUBE LINK :https://youtu.be/SfZHSCIMYqs
+YOUTUBE LINK :https://youtu.be/elstO23hdGQ
