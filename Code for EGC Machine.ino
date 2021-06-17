@@ -1,4 +1,4 @@
-***// coding part for water level meaurement in EGC system //***
+*** //coding part for water level meaurement in EGC system// ***
 const int trigP = 2;  
 const int echoP = 0;  
 
