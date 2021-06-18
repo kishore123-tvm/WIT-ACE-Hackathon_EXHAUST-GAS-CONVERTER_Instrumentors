@@ -1,6 +1,7 @@
 # WIT-WiT-ACE-Hackathon_EXHAUST-GAS-CONVERTER_Instrumentors
 Developed by Instrumentors
-Detail Description
+Detail Description:
+
 The main motive of our project is to control air pollution from vehicle exhaust and  converting  it into liquid form. The converted form of liquid is used for various purposes.
 The Exhaust gas from the vehicle is collected in a container with the help of gas tube which is placed in the Upper part of the vehicle. 
 The container is called Exhaust gas cool container which cools the gas frequently.the amount of Exhausted air collected by the container is measured by use of mq2 sensor. When the container is full the mq2 sensor alerts the driver with beep sound. 
