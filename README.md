@@ -2,7 +2,7 @@
 Developed by Instrumentors
 Detail Description:
 
-Exhaust Gas from vehicles is a major source for 66 Per Cent Of Air Pollution-Related Deaths In India, so our solution is to control Air pollution ( Exhaust gas) from the heavy load vehicles, In future we are implementing our solution for Industries which means to control 100% of air pollution
+Exhaust Gas from vehicles is a major source for 66 Per Cent Of Air Pollution-Related Deaths In India, so our solution is to control Air pollution ( Exhaust gas) from the heavy load vehicles
 The main motive of our project is to control air pollution from Heavy loaded vehicle exhaust and  converting  it into liquid form. The converted form of liquid is used for various purposes.
 
 The following are the major pollutants from Heavy loaded vehicles:
