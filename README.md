@@ -1,4 +1,4 @@
-# WIT-WiT-ACE-Hackathon_EXHAUST-GAS-CONVERTER_Instrumentors
+# WIT-ACE-Hackathon_EXHAUST-GAS-CONVERTER_Instrumentors
 Developed by Instrumentors
 Detail Description:
 
